@@ -1,0 +1,17 @@
+# Python
+**/.venv*/
+**/__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Training outputs
+models/
+logs/
+runs/
+tensorboard/
+
+# Editor settings
+.vscode/
+.idea/
